@@ -1,0 +1,18 @@
+﻿[
+  { "id": 1, "name": "Classic Burger", "category": "Fast Food", "price": 350, "available": true, "veg": false, "emoji": "\uD83C\uDF54", "image": "/images/burger.jpg", "desc": "Juicy patty with fresh veggies and cheese." },
+  { "id": 2, "name": "Chicken Pizza", "category": "Pizza", "price": 400, "available": true, "veg": false, "emoji": "\uD83C\uDF55", "image": "/images/pizza.jpg", "desc": "Cheesy chicken with fresh toppings." },
+  { "id": 3, "name": "French Fries", "category": "Snacks", "price": 150, "available": true, "veg": true, "emoji": "\uD83C\uDF5F", "image": "/images/fries.jpg", "desc": "Crispy and golden fries." },
+  { "id": 4, "name": "Club Sandwich", "category": "Fast Food", "price": 300, "available": true, "veg": false, "emoji": "\uD83E\uDD6A", "image": "/images/sandwich.jpg", "desc": "Fresh vegetables and grilled chicken." },
+  { "id": 5, "name": "Chicken Biryani", "category": "Desi", "price": 250, "available": true, "veg": false, "emoji": "\uD83C\uDF5B", "image": "/images/biryani.jpg", "desc": "Spiced rice with tender chicken." },
+  { "id": 6, "name": "Cold Coffee", "category": "Drinks", "price": 200, "available": true, "veg": true, "emoji": "\uD83E\uDD64", "image": "/images/coffee.jpg", "desc": "Chilled and creamy coffee." },
+  { "id": 7, "name": "Creamy Pasta", "category": "Fast Food", "price": 300, "available": true, "veg": true, "emoji": "\uD83C\uDF5D", "image": "/images/pasta.jpg", "desc": "Rich sauce with fresh herbs." },
+  { "id": 8, "name": "Strawberry Shake", "category": "Drinks", "price": 180, "available": false, "veg": true, "emoji": "\uD83C\uDF53", "image": "/images/shake.jpg", "desc": "Chilled and refreshing." },
+  { "id": 9, "name": "Chicken Karahi", "category": "Desi", "price": 450, "available": true, "veg": false, "emoji": "\uD83C\uDF72", "image": "/images/karahi.jpg", "desc": "Spicy tomato karahi with naan." },
+  { "id": 10, "name": "Samosa Chaat", "category": "Desi", "price": 120, "available": true, "veg": true, "emoji": "\uD83E\uDD58", "image": "/images/chaat.jpg", "desc": "Crispy samosa with yogurt and chutney." },
+  { "id": 11, "name": "Chocolate Brownie", "category": "Desserts", "price": 200, "available": true, "veg": true, "emoji": "\uD83C\uDF6B", "image": "/images/brownie.jpg", "desc": "Warm, fudgy and chocolatey." },
+  { "id": 12, "name": "Ice Cream Sundae", "category": "Desserts", "price": 220, "available": true, "veg": true, "emoji": "\uD83C\uDF68", "image": "/images/sundae.jpg", "desc": "Vanilla scoops with chocolate sauce." },
+  { "id": 13, "name": "Paratha Roll", "category": "Breakfast", "price": 200, "available": true, "veg": false, "emoji": "\uD83C\uDF2F", "image": "/images/paratha.jpg", "desc": "Flaky paratha with egg and chicken." },
+  { "id": 14, "name": "Halwa Puri", "category": "Breakfast", "price": 250, "available": true, "veg": true, "emoji": "\uD83E\uDD5E", "image": "/images/halwapuri.jpg", "desc": "Puri with halwa and chana." },
+  { "id": 15, "name": "Fruit Salad", "category": "Healthy", "price": 180, "available": true, "veg": true, "emoji": "\uD83C\uDF49", "image": "/images/fruitsalad.jpg", "desc": "Seasonal fruit, fresh and light." },
+  { "id": 16, "name": "Greek Salad", "category": "Healthy", "price": 280, "available": true, "veg": true, "emoji": "\uD83E\uDD57", "image": "/images/greeksalad.jpg", "desc": "Cucumber, tomato, olives and feta." }
+]
